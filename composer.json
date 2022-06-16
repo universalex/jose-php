@@ -1,12 +1,12 @@
 {
-  "name": "gree/jose",
-  "version": "2.2.1",
+  "name": "hailong/jose",
+  "version": "3.0.0",
   "description": "JWT, JWS and JWS implementation in PHP",
   "keywords": [
     "JSON Web Token", "JSON Web Signature", "JSON Web Encryption",
     "JWT", "JWS", "JWE", "JOSE", "OpenID Connect", "ID Token"
   ],
-  "homepage": "https://github.com/nov/jose",
+  "homepage": "https://github.com/hailong/jose",
   "license": "MIT",
   "type": "library",
   "authors": [
